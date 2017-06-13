@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Display\CurrentConditionsDisplay.cs" />
     <Compile Include="Interface\IDisplayElement.cs" />
     <Compile Include="Interface\IObserver.cs" />
     <Compile Include="Interface\ISubject.cs" />
